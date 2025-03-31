@@ -9,7 +9,6 @@ for day in days_colors.values():
 
 color_freq = Counter(all_colors)  # Count frequencies efficiently
 
-# Step 2: Database connection details (replace with your own)
 db_params = {
     "dbname": "your_database",
     "user": "your_username",
